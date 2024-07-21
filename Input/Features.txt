@@ -1,0 +1,54 @@
+The dataset used in this paper is taken from “https://www.kaggle.com/datasets/datazng/telecom-company-churn-rate-call-center-data ”. The dataset consists of 7043 records and 21 features with ‘Churn’ as the target feature.
+
+The features that are in the datasets taken are:
+
+1. customerID - A unique id number provided to every customer.
+
+2. gender - Male/Female
+
+3. SeniorCitizen - Whether the Customer is Senior citzen(1) or not(0).
+
+4. Partner - Whether the customer has a partner or not.
+
+5. Dependents - Whether the customer has dependents or not.
+
+6. tenure - For how much time (in months) the customer is taking the services of the company.
+
+7. PhoneService - Whether the customer has a phone service or not.
+
+8. MultipleLines - Whether the customer has multiple lines or not or no phone services.
+
+9. InternetService - Service provider like DSL, Fiber optic or other.
+
+10. OnlineSecurity - Whether the customer has online security or not or no internet service.
+
+11. OnlineBackup - Whether the customer has online backup or not or no internet service.
+
+12. DeviceProtection - Whether the customer has Device protection or not or no internet service.
+
+13. TechSupport - Whether the customer has Technical Support or not or no internet service.
+
+14. StreamingTV - Whether the customer has Streaming TV or not or no internet service.
+
+15. StreamingMovies - Whether the customer has Streaming movies on the device or not or no internet service.
+
+16. Contract - Type and duration of the contract.
+
+ i. Month-to-month
+ ii. One year
+ iii. Two year
+
+17. PaperlessBilling - Whether the customer uses paperless Billing or not.
+
+18. PaymentMethod - Payment method that customer uses.
+
+ i. Mailed check
+ ii. Electronic check
+ iii. Credit card (Automatic)
+ iv. Bank transfer (Automatic)
+
+19. MonthlyCharges - Monthly Charges of the customer.
+
+20. TotalCharges - Total Charges of the customer.
+
+21. Churn (Target Feature) - Whether the customer is churning (leaving) or not.
